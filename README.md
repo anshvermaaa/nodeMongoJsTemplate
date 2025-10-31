@@ -129,7 +129,6 @@ docker run -p 3000:3000 --env-file .env my-express-app
 
 - **Base path:** `/api/v1/`
 - Example route (expand as you add features):
-
     - **GET** `/api/v1/`  
       (Currently mapped to `createUser` controller, adjust as needed.)
 
